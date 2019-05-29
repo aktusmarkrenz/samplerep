@@ -28,7 +28,6 @@ C:\Users\Mark Renz Olimberio\Documents\toTestRep\localRep1\samplerep\dashpayroll
 C:\Users\Mark Renz Olimberio\Documents\toTestRep\localRep1\samplerep\dashpayroll-forTesting\obj\Debug\dashpayroll_forTesting.FormSetupShiftSched.resources
 C:\Users\Mark Renz Olimberio\Documents\toTestRep\localRep1\samplerep\dashpayroll-forTesting\obj\Debug\dashpayroll_forTesting.FormSetupWorkingdays.resources
 C:\Users\Mark Renz Olimberio\Documents\toTestRep\localRep1\samplerep\dashpayroll-forTesting\obj\Debug\dashpayroll_forTesting.Properties.Resources.resources
-C:\Users\Mark Renz Olimberio\Documents\toTestRep\localRep1\samplerep\dashpayroll-forTesting\obj\Debug\dashpayroll_forTesting.toTestClass.resources
 C:\Users\Mark Renz Olimberio\Documents\toTestRep\localRep1\samplerep\dashpayroll-forTesting\obj\Debug\dashpayroll-forTesting.csproj.GenerateResource.cache
 C:\Users\Mark Renz Olimberio\Documents\toTestRep\localRep1\samplerep\dashpayroll-forTesting\obj\Debug\dashpayroll-forTesting.csproj.CoreCompileInputs.cache
 C:\Users\Mark Renz Olimberio\Documents\toTestRep\localRep1\samplerep\dashpayroll-forTesting\obj\Debug\dashpayroll-forTesting.csproj.CopyComplete
