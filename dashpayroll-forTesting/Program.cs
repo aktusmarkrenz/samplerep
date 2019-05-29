@@ -16,7 +16,7 @@ namespace dashpayroll_forTesting
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new formSetup());
+            Application.Run(new toTestClass());
         }
     }
 }
